@@ -14,7 +14,7 @@ namespace hello_world
             string sometext = "oopopopopoopopopop";
             Console.WriteLine(sometext);
             double d = 1.2223232323232;
-            string s = "text";
+            string s = "texttext";
             float f = 1.1F;
             long l = 123456789012345;
             short sh = 255;
